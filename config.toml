@@ -1,0 +1,36 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Privacy Discussions in Toronto"
+theme = "crab"
+
+[params]
+description = "Let's learn about privacy together!"
+
+[permalinks]
+blog  = "/blog/:year/:month/:title/"
+
+[taxonomies]
+tags = "tags"
+
+[[menu.main]]
+weight = 1
+name = "Home"
+url = "/"
+
+[[menu.main]]
+weight = 3
+name = "Events"
+url = "/blog/"
+
+[[menu.main]]
+weight = 4
+name = "Resources"
+url = "/resources/"
+
+
+[[menu.main]]
+weight = 5
+name = "About"
+url = "/about/"
+
+
