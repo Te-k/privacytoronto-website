@@ -2,21 +2,21 @@
 
 html,
 body {
-  background: #fff;
-  color: #333;
-  font-family: 'Open Sans', sans-serif;
+    background: #fff;
+    color: #333;
+    font-family: 'Open Sans', sans-serif;
 }
 
 #container {
-  margin: auto;
+    margin: auto;
 }
 
 #header {
-  margin-top: 2em;
+    margin-top: 2em;
 }
 
 #site-logo {
-  float: right;
+    float: right;
 }
 
 #site-title,
@@ -24,79 +24,81 @@ a:link,
 a:active,
 a:visited,
 a:hover {
-  color: #1da8be;
+    color: #1da8be;
 }
 
 #site-title {
-  font-weight: 700;
-  font-size: xx-large;
+    font-weight: 700;
+    font-size: xx-large;
 }
 
 #site-title a:link,
 #site-title a:active,
 #site-title a:visited,
 #site-title a:hover {
-  text-decoration: none;
+    text-decoration: none;
 }
 
 #site-slogan,
 #footer {
-  color: #777;
+    color: #777;
 }
 
 #site-slogan {
-  margin-top: .75em;
+    margin-top: .75em;
 }
 
 nav {
-  clear: both;
-  margin-top: 3em;
+    clear: both;
+    margin-top: 3em;
 }
 
 nav ul {
-  list-style-type: none;
-  padding: 0;
+    list-style-type: none;
+    padding: 0;
 }
 
 nav ul.first > li {
-  display: block;
-  margin: .5em 0;
+    display: block;
+    margin: .5em 0;
 }
 
 nav ul.second,
 nav ul.third {
-  display: none;
+    display: none;
 }
 
 nav a:link,
 nav a:active,
 nav a:visited,
 nav a:hover {
-  text-decoration: none;
+    text-decoration: none;
 }
 
 nav a:link,
 nav a:active,
 nav a:visited {
-  color: #444;
+    color: #444;
 }
 
 nav a:hover {
-  color: #1da8be;
+    color: #1da8be;
 }
 
 #content,
 #footer,
 hr {
-  border-top: 1px dashed #aaa;
+    border-top: 1px dashed #aaa;
 }
 
 #content {
-  margin-top: 2em;
+    margin-top: 2em;
+    padding-left: 1.5em;
+    padding-bottom: 1em;
 }
 
 #article {
-  margin-top: 2em;
+    margin-top: 2em;
 }
 
 h1,
@@ -105,27 +107,27 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Lora', serif;
-  font-weight: 400;
+    font-family: 'Lora', serif;
+    font-weight: 400;
 }
 
 #article p, #article ol li, #article ul li {
-  text-align: justify;
+    text-align: justify;
 }
 
 #article blockquote {
-  font-family: 'Lora', serif;
-  font-style: italic;
-  font-size: 1.05em;
-  line-height: 1.5em;
+    font-family: 'Lora', serif;
+    font-style: italic;
+    font-size: 1.05em;
+    line-height: 1.5em;
 }
 
 #article dl dt {
-  font-weight: bold;
+    font-weight: bold;
 }
 
 #article dl dt em {
-  font-weight: normal;
+    font-weight: normal;
 }
 
 #article .timestamp,
@@ -134,43 +136,43 @@ h6 {
 #article .tags a:active,
 #article .tags a:visited,
 #article .tags a:hover {
-  color: #555;
+    color: #555;
 }
 
 hr {
-  border-bottom: 0;
-  border-left: 0;
-  border-right: 0;
-  margin: 2.5em 0;
+    border-bottom: 0;
+    border-left: 0;
+    border-right: 0;
+    margin: 2.5em 0;
 }
 
 span.upper {
-  text-transform: uppercase;
+    text-transform: uppercase;
 }
 
 img.right {
-  float: right;
-  margin: 0 0 1em 1em;
+    float: right;
+    margin: 0 0 1em 1em;
 }
 
 img.left {
-  float: left;
-  margin: 0 1em 1em 0;
+    float: left;
+    margin: 0 1em 1em 0;
 }
 
 #footer {
-  clear: both;
-  padding-top: 2em;
-  font-size: 90%;
+    clear: both;
+    padding-top: 2em;
+    font-size: 70%;
 }
 
 ul.pagination {
-  padding: 0;
-  list-style-type: none;
+    padding: 0;
+    list-style-type: none;
 }
 
 .pagination li {
-  display: inline-block;
+    display: inline-block;
 }
 
 .pagination .active a:link,
@@ -181,75 +183,75 @@ ul.pagination {
 .pagination .disabled a:active,
 .pagination .disabled a:visited,
 .pagination .disabled a:hover {
-  color: #555;
-  text-decoration: none;
+    color: #555;
+    text-decoration: none;
 }
 
 @media (min-width: 768px) {
 }
 
 @media (min-width: 992px) {
-  #container {
-    width: 950px;
-  }
+    #container {
+        width: 950px;
+    }
 
-  nav ul li a {
-    display: block;
-    font-size: 90%;
-  }
+    nav ul li a {
+        display: block;
+        font-size: 90%;
+    }
 
-  nav ul.first > li {
-    display: inline-block;
-    position: relative;
-    padding-right: 1.25em;
-  }
+    nav ul.first > li {
+        display: inline-block;
+        position: relative;
+        padding-right: 1.25em;
+    }
 
-  nav ul.second,
-  nav ul.third {
-    position: absolute;
-    background: #fff;
-    width: 212px;
-    border: 1px solid #ddd;
-    box-shadow: 1px 1px 1px 0px rgba(0,0,0,0.25);
-  }
+    nav ul.second,
+    nav ul.third {
+        position: absolute;
+        background: #fff;
+        width: 212px;
+        border: 1px solid #ddd;
+        box-shadow: 1px 1px 1px 0px rgba(0,0,0,0.25);
+    }
 
-  nav ul.second {
-    z-index: 2;
-  }
+    nav ul.second {
+        z-index: 2;
+    }
 
-  nav ul.third {
-    z-index: 3;
-  }
+    nav ul.third {
+        z-index: 3;
+    }
 
-  nav ul.second li {
-    position: relative;
-  }
+    nav ul.second li {
+        position: relative;
+    }
 
-  nav ul.third {
-    left: 212px;
-    top: -1px;
-  }
+    nav ul.third {
+        left: 212px;
+        top: -1px;
+    }
 
-  nav ul.first li:hover ul.second,
-  nav ul.second li:hover ul.third {
-    display: block;
-  }
+    nav ul.first li:hover ul.second,
+    nav ul.second li:hover ul.third {
+        display: block;
+    }
 
-  nav ul.second li a,
-  nav ul.third li a {
-    padding: 0.75em 1em;
-  }
+    nav ul.second li a,
+    nav ul.third li a {
+        padding: 0.75em 1em;
+    }
 
-  #article {
-    width: 576px;
-    position: relative;
-  }
+    #article {
+        width: 90%;
+        position: relative;
+    }
 
-  #summary {
-    display: block;
-    position: absolute;
-    top: 0px;
-    left: 608px;
-    width: 342px;
-  }
+    #summary {
+        display: block;
+        position: absolute;
+        top: 0px;
+        left: 608px;
+        width: 342px;
+    }
 }

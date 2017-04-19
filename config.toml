@@ -27,9 +27,14 @@ weight = 4
 name = "Resources"
 url = "/resources/"
 
-
 [[menu.main]]
 weight = 5
+name = "Code Of Conduct"
+url = "/codeofconduct/"
+
+
+[[menu.main]]
+weight = 6
 name = "About"
 url = "/about/"
 

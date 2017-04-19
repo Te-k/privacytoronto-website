@@ -14,4 +14,5 @@ Here is a non-exhaustive list of resources on privacy and security:
 
 * [PRISM Break](https://prism-break.org/en/all/) proposes alternatives to important hosting companies for your systems and data
 
+* [A DIY Guide to Feminist Cybersecurity](https://hackblossom.org/cybersecurity/) is gathering advices and link to resources to help protect your privacy and security
 
