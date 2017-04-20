@@ -4,8 +4,10 @@ title = "About Us"
 
 +++
 
-Privacy Discussions in Toronto is a group which aims at increasing awareness of everyone about Privacy and Security. We think that privacy and security are new challenges in our quickly evolving society and that everyone should have enough knowledge to take informed decisions.
+Privacy Discussions in Toronto started with the desire to have accessible, friendly, and practical conversations about digital privacy, and to encourage those conversations outside of the typical tech sphere. It's easy for tech talks to become intimidating or inaccessible, but our goal is to connect people who are interested in digital privacy issues and to provide a space to discuss, learn, and demystify.
 
-We are organising discussions around privacy in Toronto that we want accessible to everyone, as a place to share our concerns and learn from each other. We especially want to open this discussions to minorities (wether because of their origin, gender or sexual orientation) who are more likely to be at risk of digital threats than anyone.
+Tech spaces can also look pretty homogenous, and we want to disrupt that. Toronto Privacy Discussions will always be for people of all ages, backgrounds, and technical abilities, and we want to encourage individuals from groups typically underrepresented in tech to be conversation leaders, welcomed participants, and to shape with us the topics or formats for future privacy discussions.
+
+We're a pretty new group, so if you have an idea about how you want these conversations to unfold, give us a shout and let's make it happen.
 
 You can contact [@tenacioustek](https://twitter.com/tenacioustek) for questions or comments.

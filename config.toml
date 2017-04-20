@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://privacytoronto.github.io/"
 languageCode = "en-us"
 title = "Privacy Discussions in Toronto"
 theme = "crab"
