@@ -7,22 +7,49 @@ title = "Code Of Conduct"
 ## Code of Conduct
 
 
-Privacy Toronto is dedicated to providing a harassment-free environment for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, age, race, or religion. We do not tolerate harassment of event participants in any form.
+Privacy Toronto is dedicated to providing a harassment-free environment for everyone, regardless of gender, sexual orientation, ability, physical appearance, body size, age, race, religion, immigration status, or any other grounds. We do not tolerate harassment of anyone in any form.
 
-Be kind to others. Do not insult or put down other attendees. Behave humanly. Remember that harassment and sexist, racist, or exclusionary jokes are not appropriate in our events.
+Be kind to others. Do not insult or put down other attendees. Behave humanly. Harassment and bigoted or exclusionary comments are not tolerated, and individuals violating these rules may be asked to leave the event at the sole discretion of the event organizers.
 
-Attendees violating these rules may be asked to leave the event at the sole discretion of the event organizers.
+More information is available below. Thank you for helping to make this a welcoming event for all.
 
-Thank you for helping make this a welcoming, friendly event for all.
-
-## Guide on how to communicate
+## Communication Guidelines
 
 Here are some guidelines on how to communicate during our events :
 
 1. Speak clearly and at a moderate pace.
-2. Be an active listener, and be patient with people who are speaking their second (or third, or fifth!) language.
-3. Avoid jargon. Assume that people don’t use the same terms, and explain them.
-5. Address the idea, don’t attack the person.
-6. Your personal choice of technology doesn’t fit all users’ needs. There is space for different devices, software, tools, operating systems, programming languages, and licenses. Focus discussions on tools, whether closed source and commercially supported or open source, on the needs of users.
-7. If you do not like a solution someone else is proposing, explain why, and state an alternative.
+2. Be an active listener. Our events are conducted in English; be appreciative of people who may be speaking their second (or third, or fifth!) language.
+3. Avoid jargon. Assume that people don’t all use the same terms, and explain them.
+4. Be concise. Leave room for others to participate.     
+5. Avoid making assumptions about others when communicating, including assumptions about gender or pronoun choice, lived experience, or tech expertise.
+6. Disagreement is normal, but respect is key. Address the idea, don’t attack the person.
+7. Your choices may not be everyone's choices. There is space for different devices, software, tools, operating systems, programming languages, and licenses, as well as different philosophies and strategies. Focus discussions on the needs of users.
+8. We are all learning, and we may make mistakes. Being able to acknowledge, apologize, and move on with new awareness will help keep our group open to all.
+9. If you're not sure, just ask.    
 
+## Further resources
+
+Our code of conduct is a work in progress, and we gratefully acknowledge all the work that is being done on this topic.
+
+The essential goal is to make sure everyone feels welcome and acknowledged. If you have suggestions or want to help us improve our code (or anything else about our meetings), please get in touch.  
+
+For more information about codes of conduct and general resources, see:
+
+[Geek Feminism Wiki](http://geekfeminism.wikia.com/wiki/Resources_for_allies "Geek Feminism: Ally resources"): Resources for allies
+
+[HAEQS](https://haeqs.xyz/code-of-conduct/ "HAEQS Code of Conduct") Code of Conduct  
+
+[Vox Media](http://code-of-conduct.voxmedia.com/ "Vox Media Code of Conduct") Code of conduct, with detailed explanations of expected/welcomed behaviour, examples of unwelcome behaviour, and links
+
+[Speak up!](https://web.archive.org/web/20141109123859/http://speakup.io/coc.html "Speak Up! Code of Conduct") code of conduct
+
+[Black Lives Matter Freedom School](http://freedomschool.ca/code/ "BLM Freedom School Code") code of conduct
+
+[Omaha Code School](https://github.com/omahacodeschool/code_of_conduct "Omaha Code School Code of Conduct") code of conduct
+
+[Seven Sacred Teachings](http://www.abegweithealth.ca/carousel/carousel.asp "Seven sacred teachings") online resource
+
+General Guidelines on creating a code of conduct for communities, from the Ada initiative:
+<https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/>
+
+Video: Chesca Leigh on [how to respond](https://youtu.be/C8xJXKYL8pU "Chesca Leigh on Getting Called out") if you do get called out, and how it can happen to everyone. (English and French captions available)
