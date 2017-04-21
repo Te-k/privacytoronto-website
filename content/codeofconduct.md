@@ -9,7 +9,7 @@ title = "Code Of Conduct"
 
 Privacy Toronto is dedicated to providing a harassment-free environment for everyone, regardless of gender, sexual orientation, ability, physical appearance, body size, age, race, religion, immigration status, or any other grounds. We do not tolerate harassment of anyone in any form.
 
-Be kind to others. Do not insult or put down other attendees. Behave humanly. Harassment and bigoted or exclusionary comments are not tolerated, and individuals violating these rules may be asked to leave the event at the sole discretion of the event organizers.
+Be kind to others. Do not insult or put down other attendees. Behave humanly. Harassment and bigoted or exclusionary comments are not tolerated, and individuals violating these rules may be asked to leave our events at the sole discretion of the event organizers.
 
 More information is available below. Thank you for helping to make this a welcoming event for all.
 
@@ -31,9 +31,9 @@ Here are some guidelines on how to communicate during our events :
 
 Our code of conduct is a work in progress, and we gratefully acknowledge all the work that is being done on this topic.
 
-The essential goal is to make sure everyone feels welcome and acknowledged. If you have suggestions or want to help us improve our code (or anything else about our meetings), please get in touch.  
+The essential goal is to make sure everyone feels welcome and acknowledged. If you have suggestions or want to help us improve our code (or anything else about our meetings), or links we should add below, please get in touch.  
 
-For more information about codes of conduct and general resources, see:
+For more codes of conduct we like and general resources on respectful communication, see:
 
 [Geek Feminism Wiki](http://geekfeminism.wikia.com/wiki/Resources_for_allies "Geek Feminism: Ally resources"): Resources for allies
 
@@ -46,8 +46,6 @@ For more information about codes of conduct and general resources, see:
 [Black Lives Matter Freedom School](http://freedomschool.ca/code/ "BLM Freedom School Code") code of conduct
 
 [Omaha Code School](https://github.com/omahacodeschool/code_of_conduct "Omaha Code School Code of Conduct") code of conduct
-
-[Seven Sacred Teachings](http://www.abegweithealth.ca/carousel/carousel.asp "Seven sacred teachings") online resource
 
 General Guidelines on creating a code of conduct for communities, from the Ada initiative:
 <https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/>
