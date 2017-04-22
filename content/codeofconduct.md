@@ -20,24 +20,24 @@ Here are some guidelines on how to communicate during our events :
 1. Speak clearly and at a moderate pace.
 2. Be an active listener. Our events are conducted in English; be appreciative of people who may be speaking their second (or third, or fifth!) language.
 3. Avoid jargon. Assume that people don’t all use the same terms, and explain them.
-4. Be concise. Leave room for others to participate.     
+4. Be concise. Leave room for others to participate.
 5. Avoid making assumptions about others when communicating, including assumptions about gender or pronoun choice, lived experience, or tech expertise.
 6. Disagreement is normal, but respect is key. Address the idea, don’t attack the person.
 7. Your choices may not be everyone's choices. There is space for different devices, software, tools, operating systems, programming languages, and licenses, as well as different philosophies and strategies. Focus discussions on the needs of users.
 8. We are all learning, and we may make mistakes. Being able to acknowledge, apologize, and move on with new awareness will help keep our group open to all.
-9. If you're not sure, just ask.    
+9. If you're not sure, just ask.
 
 ## Further resources
 
 Our code of conduct is a work in progress, and we gratefully acknowledge all the work that is being done on this topic.
 
-The essential goal is to make sure everyone feels welcome and acknowledged. If you have suggestions or want to help us improve our code (or anything else about our meetings), or links we should add below, please get in touch.  
+The essential goal is to make sure everyone feels welcome and acknowledged. If you have suggestions or want to help us improve our code (or anything else about our meetings), or links we should add below, please get in touch.
 
 For more codes of conduct we like and general resources on respectful communication, see:
 
 [Geek Feminism Wiki](http://geekfeminism.wikia.com/wiki/Resources_for_allies "Geek Feminism: Ally resources"): Resources for allies
 
-[HAEQS](https://haeqs.xyz/code-of-conduct/ "HAEQS Code of Conduct") Code of Conduct  
+[HAEQS](https://haeqs.xyz/code-of-conduct/ "HAEQS Code of Conduct") Code of Conduct
 
 [Vox Media](http://code-of-conduct.voxmedia.com/ "Vox Media Code of Conduct") Code of conduct, with detailed explanations of expected/welcomed behaviour, examples of unwelcome behaviour, and links
 

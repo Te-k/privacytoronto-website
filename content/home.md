@@ -11,7 +11,7 @@ We organize events in Toronto about privacy--check out [our next event](/blog/20
 
 ## Next Event : Privacy 101: An Open Discussion
 
-The first Privacy Discussion will be held the 16th of May 2017 at the 519 Community Center from 6pm to 8pm. We'll combine a brief talk and a workshop, and leave time for a Q&A/extended discussion.       
+The first Privacy Discussion will be held the 16th of May 2017 at the 519 Community Center from 6pm to 8pm. We'll combine a brief talk and a workshop, and leave time for a Q&A/extended discussion.
 
 ### Program
 
