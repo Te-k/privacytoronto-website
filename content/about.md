@@ -28,6 +28,6 @@ No experience is required! We will try to keep our workshops interesting and rel
 
 Do you have an idea for a future session, a question, comment, criticism, or want to help us plan our next event? Email us at <torontoprivacy@protonmail.com>, or reach out to [@tenacioustek](https://twitter.com/tenacioustek) on Twitter.
 
-## I might want to get involved, but I'm not sure/I have some questions/I don't understand everything on your site.
+### I might want to get involved, but I'm not sure/I have some questions/I don't understand everything on your site.
 
 Send us an email or a Twitter message. We are happy to answer any questions you might have.
