@@ -4,9 +4,10 @@ title = "Privacy Discussions in Toronto"
 theme = "crab"
 
 [params]
-description = "Let's learn about privacy together!"
+description = "Let's learn about privacy and security together!"
 
 [permalinks]
+events  = "/events/:year/:month/:title/"
 blog  = "/blog/:year/:month/:title/"
 
 [taxonomies]
@@ -20,6 +21,11 @@ url = "/"
 [[menu.main]]
 weight = 3
 name = "Events"
+url = "/events/"
+
+[[menu.main]]
+weight = 4
+name = "Blog"
 url = "/blog/"
 
 [[menu.main]]

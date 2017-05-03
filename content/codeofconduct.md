@@ -35,19 +35,11 @@ The essential goal is to make sure everyone feels welcome and acknowledged. If y
 
 For more codes of conduct we like and general resources on respectful communication, see:
 
-[Geek Feminism Wiki](http://geekfeminism.wikia.com/wiki/Resources_for_allies "Geek Feminism: Ally resources"): Resources for allies
-
-[HAEQS](https://haeqs.xyz/code-of-conduct/ "HAEQS Code of Conduct") Code of Conduct
-
-[Vox Media](http://code-of-conduct.voxmedia.com/ "Vox Media Code of Conduct") Code of conduct, with detailed explanations of expected/welcomed behaviour, examples of unwelcome behaviour, and links
-
-[Speak up!](https://web.archive.org/web/20141109123859/http://speakup.io/coc.html "Speak Up! Code of Conduct") code of conduct
-
-[Black Lives Matter Freedom School](http://freedomschool.ca/code/ "BLM Freedom School Code") code of conduct
-
-[Omaha Code School](https://github.com/omahacodeschool/code_of_conduct "Omaha Code School Code of Conduct") code of conduct
-
-General Guidelines on creating a code of conduct for communities, from the Ada initiative:
-<https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/>
-
-Video: Chesca Leigh on [how to respond](https://youtu.be/C8xJXKYL8pU "Chesca Leigh on Getting Called out") if you do get called out, and how it can happen to everyone. (English and French captions available)
+* [Geek Feminism Wiki](http://geekfeminism.wikia.com/wiki/Resources_for_allies "Geek Feminism: Ally resources"): Resources for allies
+* [HAEQS](https://haeqs.xyz/code-of-conduct/ "HAEQS Code of Conduct") Code of Conduct
+* [Vox Media](http://code-of-conduct.voxmedia.com/ "Vox Media Code of Conduct") Code of conduct, with detailed explanations of expected/welcomed behaviour, examples of unwelcome behaviour, and links
+* [Speak up!](https://web.archive.org/web/20141109123859/http://speakup.io/coc.html "Speak Up! Code of Conduct") code of conduct
+* [Black Lives Matter Freedom School](http://freedomschool.ca/code/ "BLM Freedom School Code") code of conduct
+* [Omaha Code School](https://github.com/omahacodeschool/code_of_conduct "Omaha Code School Code of Conduct") code of conduct
+* [General Guidelines](https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community) on creating a code of conduct for communities, from the Ada initiative:
+* Video: Chesca Leigh on [how to respond](https://youtu.be/C8xJXKYL8pU "Chesca Leigh on Getting Called out") if you do get called out, and how it can happen to everyone. (English and French captions available)
