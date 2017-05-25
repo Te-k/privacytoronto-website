@@ -53,6 +53,7 @@ We finally had a short presentation about passwords (you can find the slides [he
 ### Passphrases
 
 Here is an interesting way to create strong passphrases :
+
 * Think about passphrases and not passwords
 * Take four words that make sense to you
 * Add special characters, capital letters and numbers.
